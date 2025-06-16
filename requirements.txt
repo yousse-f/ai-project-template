@@ -1,5 +1,12 @@
+# Dev tools
 black
 isort
 flake8
 pytest
 jupyter
+
+# Core AI libs
+openai==0.28.1         # Compatibile con ChatCompletion (GPT-3.5)
+wikipedia
+spacy
+python-dotenv
